@@ -30,9 +30,7 @@ namespace QFramework.Example
 		/// </summary>
 		public int CurSelectIndex 
 		{
-			get {
-				return mCurSelectIndex;
-			}
+			get { return mCurSelectIndex; }
 		}
 
 		void Start () 
