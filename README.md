@@ -2,9 +2,11 @@
 
 ~~~c#
 /****************************************************************************
- * Copyright (c) 2017 liangxieq
- * 
- * https://github.com/liangxiegame/QCSharpStyleGuide
+ * Copyright (c) 2017 liangxieq （填写自己的 github id/或者昵称)
+ * Copyright (c) 2018.5 karsion  (要注明最后维护者)
+ 
+ * https://github.com/liangxiegame/QCSharpStyleGuide  (git 地址要注明)
+ * http://liangxiegame.com (当然也可以署上自己的博客)
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
