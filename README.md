@@ -40,8 +40,7 @@ namespace QFramework.Example
 	{
 		#region Basic App
 		/// <summary>
-		/// 1.private/protected使用m开头+驼峰式
-		/// 2.前缀最好展示所属的Component类型比如Button->Btn
+		/// 私有成员变量不做限制
 		/// </summary>
 		[SerializeField] Button mBtnEnterMainPage;
 
